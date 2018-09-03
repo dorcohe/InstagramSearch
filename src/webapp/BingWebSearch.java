@@ -15,7 +15,7 @@ public class BingWebSearch {
 	/*
 	 * If you encounter unexpected authorization errors, double-check these values
 	 * against the end point for your "Bing" Web search instance in your Azure
-	 * dashboard.
+	 * dashboard !.
 	 */
 	static String host = "https://api.cognitive.microsoft.com";
 	static String path = "/bingcustomsearch/v7.0/search";
