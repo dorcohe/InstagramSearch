@@ -10,7 +10,7 @@ import com.google.gson.JsonParser;
 
 public class BingWebSearch {
 	// Enter a valid subscription key.
-	static String subscriptionKey = Constans.SEARCH_KEY;
+	static String subscriptionKey = Constans.MY_SUBSCRIPTION_KEY;
 
 	/*
 	 * If you encounter unexpected authorization errors, double-check these values
